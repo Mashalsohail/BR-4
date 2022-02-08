@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<!-- Global site tag (gtag.js) - Google Ads: 10850474697 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10850474697"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-10850474697');
+</script>
+
+		
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=480">
 		<title>Tactical Drone PRO</title>
