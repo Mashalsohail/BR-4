@@ -3,6 +3,17 @@
 <!DOCTYPE html>
 <html>
 <head>
+	
+	<!-- Global site tag (gtag.js) - Google Ads: 10850474697 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10850474697"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-10850474697');
+</script>
+
 	<meta http-equiv="refresh" content="10; url=<?= htmlspecialchars($target) ?>">
 	<meta name="referrer" content="no-referrer">
 </head>
